@@ -18,13 +18,13 @@ subtitle = ""
   icon = "chart-line"
   icon_pack = "fas"
   name = "Machine Learning"
-  description = "Machine Learning Algorithms"
+  description = "Implemented various Machine Learning algorithms"
 
 [[feature]]
   icon = "java"
   icon_pack = "fab"
   name = "Java"
-  description = "Fluent, Main Programming Language"
+  description = "Fluent, Main Programming Language. 10+ years experience"
 
 [[feature]]
   icon = "python"
@@ -36,6 +36,7 @@ subtitle = ""
   icon = "linux"
   icon_pack = "fab"
   name = "Linux"
+  description = "Uses Ubuntu/Debian/Redhat/AmazonLinux"
 
 [[feature]]
   icon = "aws"
@@ -46,18 +47,25 @@ subtitle = ""
 [[feature]]
   icon = "docker"
   icon_pack = "fab"
-  name = "Docker"
+  docker = "Docker"
+  description = "Used ECS/Fargate in production"
 
 [[feature]]
   icon = "database"
   icon_pack = "fas"
-  name = "Postgres/MySQL"
+  name = "Databases"
+  description = "Experienced in Postgres/MySQL. Ph.D in Database Systems :-)"
 
 [[feature]]
-  icon = "hadoop.apache.org"
-  icon_pack = "fas"
+  icon = "hadoop"
+  icon_pack = "custom"
   name = "Hadoop"
-  description = "Hadoop/Spark/Hive"
+  description = "Hadoop/Spark/Hive master"
 
+[[feature]]
+  icon = "terraform"
+  icon_pack = "custom"
+  name = "Terraform"
+  description = "Tool for DevOps"
 
 +++
