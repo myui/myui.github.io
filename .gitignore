@@ -1,4 +1,11 @@
+!.gitkeep
 *~
 .project
-/.DS_Store
+.DS_Store
 public
+\#*#
+*.bak
+
+# Hugo
+resources/
+public/
