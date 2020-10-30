@@ -36,7 +36,7 @@ subtitle = ""
   icon = "linux"
   icon_pack = "fab"
   name = "Linux"
-  description = "Uses Ubuntu/Debian/Redhat/AmazonLinux"
+  description = "Long-term user. Uses Ubuntu/Debian/Redhat/AmazonLinux"
 
 [[feature]]
   icon = "aws"
@@ -48,7 +48,7 @@ subtitle = ""
   icon = "docker"
   icon_pack = "fab"
   docker = "Docker"
-  description = "Used ECS/Fargate in production"
+  description = "Used ECS/Fargate in production. Experienced in Container security issues."
 
 [[feature]]
   icon = "database"
