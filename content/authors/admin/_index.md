@@ -77,3 +77,5 @@ email: ""
 Makoto YUI is a Principal Engineer of Arm Treasure Data, working on ML-as-a-Service. My work has been productized as the heart of CDP predictive scoring and Content Affinity Engine. Also, I work on a workflow management system and it's Docker support. 
 
 Aside from that, he is leading the development of [Apache Hivemall](https://hivemall.apache.org/), an open source library for scalable machine learning on Apache Hive and Spark.
+
+He received Ph.D in computer science from [Nara Institute of Science and Technology (NAIST)](http://www.naist.jp/en/) in 2009.
