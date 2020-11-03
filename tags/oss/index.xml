@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Projects | Progress toward Convergence</title>
-    <link>https://myui.github.io/project/</link>
-      <atom:link href="https://myui.github.io/project/index.xml" rel="self" type="application/rss+xml" />
-    <description>Projects</description>
+    <title>OSS | Progress toward Convergence</title>
+    <link>https://myui.github.io/tags/oss/</link>
+      <atom:link href="https://myui.github.io/tags/oss/index.xml" rel="self" type="application/rss+xml" />
+    <description>OSS</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright © Makoto Yui. All rights reserved.</copyright><lastBuildDate>Tue, 03 Nov 2020 00:00:01 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
-      <title>Projects</title>
-      <link>https://myui.github.io/project/</link>
+      <title>OSS</title>
+      <link>https://myui.github.io/tags/oss/</link>
     </image>
     
     <item>

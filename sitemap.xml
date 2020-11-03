@@ -18,6 +18,36 @@
   </url>
   
   <url>
+    <loc>https://myui.github.io/project/btree4j/</loc>
+    <lastmod>2020-11-03T00:00:01+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://myui.github.io/tags/oss/</loc>
+    <lastmod>2020-11-03T00:00:01+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://myui.github.io/project/</loc>
+    <lastmod>2020-11-03T00:00:01+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://myui.github.io/tags/</loc>
+    <lastmod>2020-11-03T00:00:01+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://myui.github.io/project/hivemall/</loc>
+    <lastmod>2020-11-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://myui.github.io/tags/ml/</loc>
+    <lastmod>2020-11-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://myui.github.io/authors/admin/</loc>
     <lastmod>2019-04-07T00:00:00+00:00</lastmod>
   </url>
@@ -53,11 +83,6 @@
   </url>
   
   <url>
-    <loc>https://myui.github.io/tags/</loc>
-    <lastmod>2019-04-07T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://myui.github.io/slides/</loc>
     <lastmod>2019-02-05T00:00:00+00:00</lastmod>
   </url>
@@ -65,31 +90,6 @@
   <url>
     <loc>https://myui.github.io/slides/example/</loc>
     <lastmod>2019-02-05T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://myui.github.io/tags/deep-learning/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://myui.github.io/tags/demo/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://myui.github.io/project/external-project/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://myui.github.io/project/internal-project/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://myui.github.io/project/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
   </url>
   
   <url>
