@@ -52,4 +52,27 @@ Aside from development tasks, I consulted 20~30 customer-facing machine learning
 I presented talks in various conferences (such as [ApacheCon](https://www.slideshare.net/myui/introduction-to-apache-hivemall-v050-116894003), [Hadoop Conference](https://www.slideshare.net/myui/hadoopsummit16-myui), Annnual event of Japan DataScientist Society) and gave demos at research conferences ([RecSys'18](https://dl.acm.org/doi/10.1145/3240323.3241592)).
 """
 
+[[experience]]
+  title = "Apache Hivemall PPMC member"
+  company = "The Apache Software Foundation"
+  company_url = "https://hivemall.apache.org/"
+  location = ""
+  date_start = "2016-09-13"
+  date_end = ""
+description = """
+Leading the development of Apache Hivemall at Apache Incubator as [the original creator](https://github.com/myui/hivemall) ([slide](https://www.slideshare.net/myui/podling-hivemall-in-the-apache-incubator)).
+"""
+
+[[experience]]
+  title = "Senior Researcher"
+  company = "National Institute of Advanced Industrial Science and Technology (AIST)"
+  company_url = "https://www.aist.go.jp/"
+  location = "Tsukuba, Japan"
+  date_start = "2010-04-01"
+  date_end = "2015-03-31"
+description = """
+Working on distributed and parallel data processing and large-scale machine learning at the data science research group.
+Designed and managed 50 nodes Hadoop cluster for managing scientific workflows. Promoted to Senior Researcher in the last year at AIST.
+"""
+
 +++

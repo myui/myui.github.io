@@ -30,6 +30,10 @@ subtitle = ""
     tag = "ML"
 
   [[content.filter_button]]
+    name = "Databases"
+    tag = "DB"
+
+  [[content.filter_button]]
     name = "Open Source"
     tag = "OSS"
 

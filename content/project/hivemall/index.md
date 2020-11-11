@@ -1,6 +1,6 @@
 ---
 title: Apache Hivemall (Incubating)
-summary: Apache Hivemall is a scalable machine learning library that runs on Apache Hive and Spark. Apache Hivemall offers a variety of functionalities including regression, classification, recommendation, anomaly detection, k-nearest neighbor, and feature engineering.
+summary: Apache Hivemall is a scalable machine learning library that runs on Apache Hive and Spark. Apache Hivemall offers a variety of functionalities including regression, classification, recommendation, anomaly detection, k-nearest neighbor, and feature engineering. Won [IDG's InfoWorld 2014 Bossie Awards 2014, the best open source big data tools](https://www.infoworld.com/article/2688074/big-data-164727-bossie-awards-2014-the-best-open-source-big-data-tools.html).
 tags:
 - OSS
 - ML
