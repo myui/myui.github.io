@@ -48,12 +48,12 @@
   </url>
   
   <url>
-    <loc>https://myui.github.io/authors/admin/</loc>
+    <loc>https://myui.github.io/publication_types/3/</loc>
     <lastmod>2019-04-07T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://myui.github.io/publication_types/3/</loc>
+    <loc>https://myui.github.io/authors/admin/</loc>
     <lastmod>2019-04-07T00:00:00+00:00</lastmod>
   </url>
   
@@ -115,6 +115,20 @@
   <url>
     <loc>https://myui.github.io/publication/conference-paper/</loc>
     <lastmod>2013-07-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://myui.github.io/tags/db/</loc>
+    <lastmod>2004-10-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://myui.github.io/project/xpsql/</loc>
+    <lastmod>2004-10-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://myui.github.io/authors/myui/</loc>
   </url>
   
   <url>
