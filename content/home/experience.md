@@ -72,7 +72,52 @@ Leading the development of Apache Hivemall at Apache Incubator as [the original 
   date_end = "2015-03-31"
 description = """
 Working on distributed and parallel data processing and large-scale machine learning at the data science research group.
-Designed and managed 50 nodes Hadoop cluster for managing scientific workflows. Promoted to Senior Researcher in the last year at AIST.
+Designed and managed 50 nodes Hadoop cluster for managing scientific workflows. Promoted to a Senior Researcher in the 3rd year at AIST.
+"""
+
+[[experience]]
+  title = "Visiting Researcher"
+  company = "The University of Edinburgh"
+  company_url = "https://www.ed.ac.uk/informatics"
+  location = "Edinburgh, UK"
+  date_start = "2011-09-01"
+  date_end = "2011-11-30"
+description = """
+As a visiting researcher from AIST, I worked with Paolo Basala and Prof. Malcolm Atkinson at Data Intensive Research (DIR) group.
+Designed a distributed streaming data processing system on EDIM1 data-intensive machine (an energy-efficient PC cluster) for scientific workflows.
+"""
+
+[[experience]]
+  title = "Visiting Postdoc"
+  company = "Centrum Wiskunde and Informatica (CWI)"
+  company_url = "https://www.cwi.nl/research/groups/database-architectures"
+  location = "Amesterdam, Nederlands"
+  date_start = "2009-10-01"
+  date_end = "2010-03-31"
+description = """
+Worked with Peter Boncz and Prof. Martin Kersten at INS1 database research group. Designed and implemented a parallel database system on the top of shared-nothing MonetDB servers.
+"""
+
+[[experience]]
+  title = "Visiting Researcher"
+  company = "Waseda University"
+  company_url = "https://www.yama.info.waseda.ac.jp/"
+  location = "Tokyo, Japan"
+  date_start = "2009-04-01"
+  date_end = "2010-03-31"
+description = """
+While I'm receiving my JSPS followship, I worked with [Prof. Yamana](https://www.yama.info.waseda.ac.jp/~yamana/yamana_eng2015.htm).
+"""
+
+[[experience]]
+  title = "System Engineer"
+  company = "NEC Infomatic Systems, Ltd"
+  company_url = ""
+  location = "Tokyo, Japan"
+  date_start = "2004-04-01"
+  date_end = "2006-03-31"
+description = """
+Designed and implemented RM4GS (Reliable Messaging for Grid Services) as a reference implementation of [OASIS WSRM](https://www.oasis-open.org/committees/tc_home.php?wg_abbrev=wsrm) which provides reliable messaging facilities for Web Services.
 """
 
 +++

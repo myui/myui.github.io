@@ -37,6 +37,15 @@ date_format = "Jan 2006"
   description = "Awarded for a research paper on non-blocking database buffer management."
 
 [[item]]
+  organization = "Japan Society for the Promotion of Science"
+  organization_url = "https://www.jsps.go.jp/english/"
+  title = "JSPS Research Fellow (PD)"
+  url = ""
+  date_start = "2009-04-01"
+  date_end = "2010-03-31"
+  description = "Recieved a goverment-sponsored Postdoctoral Fellowship."
+
+[[item]]
   organization = "Nara Institute of Science and Technology, Japan"
   organization_url = "https://www.naist.jp/"
   title = "Best Student Award"
@@ -44,6 +53,15 @@ date_format = "Jan 2006"
   date_start = "2009-03-01"
   date_end = ""
   description = "Completed the doctoral course and recieved the Best Student Award."
+
+[[item]]
+  organization = "Japan Society for the Promotion of Science"
+  organization_url = "https://www.jsps.go.jp/english/"
+  title = "JSPS Research Fellow (DC2)"
+  url = ""
+  date_start = "2008-04-01"
+  date_end = "2009-03-31"
+  description = "Recieved a goverment-sponsored Fellowship for Ph.D students"
 
 [[item]]
   organization = "Information Processing Society of Japan"
