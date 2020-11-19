@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Publications | Progress toward Convergence</title>
-    <link>https://myui.github.io/publication/</link>
-      <atom:link href="https://myui.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
-    <description>Publications</description>
+    <title>Steven Lynden | Progress toward Convergence</title>
+    <link>https://myui.github.io/authors/steven-lynden/</link>
+      <atom:link href="https://myui.github.io/authors/steven-lynden/index.xml" rel="self" type="application/rss+xml" />
+    <description>Steven Lynden</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright © Makoto Yui. All rights reserved.</copyright><lastBuildDate>Wed, 01 Jun 2016 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
-      <title>Publications</title>
-      <link>https://myui.github.io/publication/</link>
+      <title>Steven Lynden</title>
+      <link>https://myui.github.io/authors/steven-lynden/</link>
     </image>
     
     <item>
