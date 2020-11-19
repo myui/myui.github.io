@@ -52,7 +52,7 @@ date_format = "Jan 2006"
   url = "http://imd.naist.jp/news/2009/20090319_e.html"
   date_start = "2009-03-01"
   date_end = ""
-  description = "Completed the doctoral course and recieved the Best Student Award."
+  description = "I was selected as the best student from those graduated this year."
 
 [[item]]
   organization = "Japan Society for the Promotion of Science"
@@ -75,10 +75,10 @@ date_format = "Jan 2006"
 [[item]]
   organization = "Information-Technology Promotion Agency, Japan"
   organization_url = "https://www.ipa.go.jp/"
-  title = "Super Creater Award"
+  title = "MITOH Youth Super Creater Award"
   url = "https://www.ipa.go.jp/jinzai/mitou/kinkyou/creator.html"
   date_start = "2003-07-01"
   date_end = ""
-  description = "Won Super Creater Award in the goverment program for young engineers."
+description = "Won Super Creater Award in the goverment program for young engineers. The MITOH Program aims to discover and develop outstanding human resources called Super Creators. Specifically, these are persons possessing creative ideas and skills for achieving software innovation and who can put these ideas and skills to use. Super Creators discovered through this program implemented by IPA are expected to play active roles as world-class IT human resources that help support Japan's IT industry during the next generation."
 
 +++

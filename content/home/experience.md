@@ -95,7 +95,7 @@ Designed a distributed streaming data processing system on EDIM1 data-intensive 
   date_start = "2009-10-01"
   date_end = "2010-03-31"
 description = """
-Worked with Peter Boncz and Prof. Martin Kersten at INS1 database research group. Designed and implemented a parallel database system on the top of shared-nothing MonetDB servers.
+Worked with [Peter Boncz](https://homepages.cwi.nl/~boncz/) and Prof. Martin Kersten at INS1 database research group. Designed and implemented a parallel database system on the top of shared-nothing MonetDB servers.
 """
 
 [[experience]]
