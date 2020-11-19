@@ -1,6 +1,6 @@
 ---
 title: XBird
-summary: XBird is a light-weight XQuery processor and database system written in Java. The light-weight means reasonably fast and embeddable.
+summary: XBird is a light-weight XQuery processor and database system written in Java. The light-weight means reasonably fast and embeddable. Impmented fully Function Programming lanuguage for XML, [XQuery](https://en.wikipedia.org/wiki/XQuery) using [JavaCC](https://javacc.github.io/javacc/). It passes about 91% of the minimal conformance of [XQuery Test Suite](https://dev.w3.org/2006/xquery-test-suite/PublicPagesStagingArea/).
 tags:
 - OSS
 - Databases
