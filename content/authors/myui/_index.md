@@ -78,4 +78,4 @@ Makoto YUI is a Principal Engineer of Arm Treasure Data, working on ML-as-a-Serv
 
 Aside from that, he is leading the development of [Apache Hivemall](https://hivemall.apache.org/), an open source library for scalable machine learning on Apache Hive and Spark.
 
-He received Ph.D in computer science from [Nara Institute of Science and Technology (NAIST)](http://www.naist.jp/en/) in 2009.
+He received Ph.D in computer science from [Nara Institute of Science and Technology (NAIST)](http://www.naist.jp/en/) in 2009. He won the best student award from those who graduated NAIST in 2009.
