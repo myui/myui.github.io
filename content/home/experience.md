@@ -18,12 +18,25 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
+  title = "Senior Principal Engineer"
+  company = "Treasure Data"
+  company_url = "https://www.treasuredata.com/"
+  location = "Tokyo, Japan"
+  date_start = "2023-04-01"
+  date_end = ""
+description = """
+Working with multi-regional teams, leading AutoML productization as a technical lead. Designed, build, lead the team, and operate Auto-scaling container platform for Automl service and implemented various machine learning functions running on top of it.
+
+Promoted to a Senior Principal Engineer by sucessfully leading ML team as a Tech Lead for productizing [Treasure Automl](https://docs.treasuredata.com/display/public/PD/AutoML).
+  """
+
+[[experience]]
   title = "Principal Engineer"
   company = "Arm Treasure Data"
   company_url = "https://www.treasuredata.com/"
   location = "Tokyo, Japan"
   date_start = "2018-08-02"
-  date_end = ""
+  date_end = "2023-03-31"
   description = """
 Leading the development of a large scale machine learning service (ML-as-a-Service) in Treasure Data cloud service. My work has became productized as the heart of [CDP predictive scoring](https://www.treasuredata.com/product/segmentation/) (Predictive models with automated feature engineering) and [Content Affinity Engine](https://www.slideshare.net/treasure-data/hands-on-javascript-sdk/23) (Data augumentation of user interests using NLP, Ontology, and Wikipedia Corpus). 
 
@@ -58,7 +71,7 @@ I presented talks in various conferences (such as [ApacheCon](https://www.slides
   company_url = "https://hivemall.apache.org/"
   location = ""
   date_start = "2016-09-13"
-  date_end = ""
+  date_end = "2022-09-01"
 description = """
 Leading the development of Apache Hivemall at Apache Incubator as [the original creator](https://github.com/myui/hivemall) ([slide](https://www.slideshare.net/myui/podling-hivemall-in-the-apache-incubator)).
 """

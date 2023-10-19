@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Principal Engineer
+role: Senior Principal Engineer
 
 # Organizations/Affiliations
 organizations:
@@ -18,7 +18,7 @@ organizations:
   url: "https://www.treasuredata.com/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: Makoto YUI is a Principal Engineer of Arm Treasure Data. He is leading the development of Apache Hivemall. CS Ph.D from NAIST, 2009.
+bio: Makoto YUI is a Senior Principal Engineer at Treasure Dat. He is leading the development of productizing [Treasure AutoML](https://docs.treasuredata.com/display/public/PD/AutoML) as the tech lead. CS Ph.D from NAIST, 2009.
 
 interests:
 - Machine Learning
@@ -74,8 +74,10 @@ email: ""
 # - Visitors
 ---
 
-Makoto YUI is a Principal Engineer of Arm Treasure Data, working on ML-as-a-Service. My work has been productized as the heart of CDP predictive scoring and Content Affinity Engine. Also, I work on a workflow management system and it's Docker support. 
+Makoto YUI is a Senior Principal Engineer of Treasure Data, working on ML-as-a-Service. He is currently leading the development of productizing [Treasure AutoML](https://docs.treasuredata.com/display/public/PD/AutoML) as the tech lead. My work has been productized as the heart of CDP predictive scoring and Content Affinity Engine as well.
 
 Aside from that, he is leading the development of [Apache Hivemall](https://hivemall.apache.org/), an open source library for scalable machine learning on Apache Hive and Spark.
+Hivemall is [awarded for IDC InfoWorld’s Bossie Awards 2014](https://www.infoworld.com/article/2688074/big-data-164727-bossie-awards-2014-the-best-open-source-big-data-tools.html) to picks in big data tools.
 
 He received Ph.D in computer science from [Nara Institute of Science and Technology (NAIST)](http://www.naist.jp/en/) in 2009. He won the best student award from those who graduated NAIST in 2009.
+He also won MITOH Youth Super Creater Award at the goverment program for young engineers in 2003.
