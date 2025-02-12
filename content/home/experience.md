@@ -28,6 +28,8 @@ description = """
 Working with multi-regional teams, leading AutoML productization as a technical lead. Designed, build, lead the team, and operate Auto-scaling container platform for Automl service and implemented various machine learning functions running on top of it.
 
 Promoted to a Senior Principal Engineer by sucessfully leading ML team as a Tech Lead for productizing [Treasure Automl](https://docs.treasuredata.com/display/public/PD/AutoML).
+
+Now belong to CTO office, reporting directly to our CTO and working on a tiger mission to explore new technical ML oppourtunities.
   """
 
 [[experience]]

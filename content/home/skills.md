@@ -30,7 +30,14 @@ subtitle = ""
   icon = "python"
   icon_pack = "fab"
   name = "Python"
-  description = "Tool for Scripting"
+  description = "Tool for Scripting and daily work. Proficient."
+  
+[[feature]]
+  icon = "rust"
+  icon_pack = "fab"
+  name = "Rust"
+  description = "Recent favarite programming language. Use mainly for speeding up Python using py3o/maturin."
+
 
 [[feature]]
   icon = "linux"
